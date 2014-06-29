@@ -39,6 +39,7 @@ public class ReversePolishAlgo {
 
 			}
 		}
+		System.out.println("hello");
 
 		return Integer.valueOf(stackElem.pop());
 	}
